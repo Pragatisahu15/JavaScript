@@ -36,4 +36,4 @@ console.log(instructor)
 //     {}, 
 //     {}
 // ]
-
+//we've explored randon user api and json formatter
